@@ -26,12 +26,13 @@
 - increase Facebook activity
 - Google and/or Facebook advertising as needed
 
-## Deliverables
+## Solutions
+### DELIVERABLES
 - Prototype & mockup files (pdf, png)
 - Editable forms (pdf)
 - Final instructions and recommendations (pdf)
 
-### Demo
+### DEMO
 - [Desktop on Figma](https://www.figma.com/proto/51BEy27XD4YhjSFoQVDW2S/Adoptions-Northwest%2C-Inc?node-id=4%3A3&scaling=min-zoom)  
 - [Mobile on Figma](https://www.figma.com/proto/51BEy27XD4YhjSFoQVDW2S/Adoptions-Northwest%2C-Inc?node-id=4%3A11&scaling=scale-down) 
 - [Parent Application on PDF Filler](https://pdf.ac/yOc4P) 
