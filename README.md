@@ -14,10 +14,11 @@
 - chat box integrated but client has to login on desktop to access
   - Mobile app exists, but likely does not know it’s available or has been unable to download it
   - asks user for name and email address to be contacted 
-  - does not display “chat hours” to user, but the setting is available to setup
+  - does not display “chat hours” to user, but the setting is available
 
 ### ONLINE FORMS
 - currently in word.doc format
+  - inaccessible to mobile users, requires printing
   - convert into editable pdfs for ease & accessibility
   - alternatively could use online resources like DocuSign or PDF Filler
   
